@@ -1,0 +1,1 @@
+This Repository Contains code snippets I've used for various projects. What is here has worked for me. There is no guarantee that it will work for you.
